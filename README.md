@@ -27,7 +27,7 @@ The groups can go across edges because the KMAP is kind of like a cylinder where
 
 ### Why are the names Sum of Products and Products of Sums?
 
-SOP gets its name because the variables are all ANDed together to create the variables being products terms, and then they get ORed together to create a sum. POS is the opposite, where the variables are ORed together to create sume terms, and then those terms are ANDed together.
+SOP gets its name because the variables are all ANDed together to create the variables being products terms, and then they get ORed together to create a sum. POS is the opposite, where the variables are ORed together to create sum terms, and then those terms are ANDed together.
 
 ### Open the test.v file – how are we able to check that the signals match using XOR?
 
